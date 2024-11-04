@@ -1,0 +1,526 @@
+Product ID,Flavor,Sweetness Level,Pearl Type,Size (oz),Unit Price ($),Price per oz ($),Profit ($)
+CL-100-C-16,Classic,100%,Classic,16,4.0,0.25,0.6
+CL-100-C-20,Classic,100%,Classic,20,5.0,0.25,0.75
+CL-100-C-24,Classic,100%,Classic,24,6.0,0.25,0.9
+CL-100-M-16,Classic,100%,Mini,16,4.48,0.28,0.67
+CL-100-M-20,Classic,100%,Mini,20,5.6,0.28,0.84
+CL-100-M-24,Classic,100%,Mini,24,6.72,0.28,1.01
+CL-100-P-16,Classic,100%,Popping,16,4.8,0.3,0.72
+CL-100-P-20,Classic,100%,Popping,20,6.0,0.3,0.9
+CL-100-P-24,Classic,100%,Popping,24,7.2,0.3,1.08
+CL-100-J-16,Classic,100%,Jelly,16,4.48,0.28,0.67
+CL-100-J-20,Classic,100%,Jelly,20,5.6,0.28,0.84
+CL-100-J-24,Classic,100%,Jelly,24,6.72,0.28,1.01
+CL-100-W-16,Classic,100%,Without,16,3.84,0.24,0.58
+CL-100-W-20,Classic,100%,Without,20,4.8,0.24,0.72
+CL-100-W-24,Classic,100%,Without,24,5.76,0.24,0.86
+CL-075-C-16,Classic,75%,Classic,16,4.0,0.25,0.6
+CL-075-C-20,Classic,75%,Classic,20,5.0,0.25,0.75
+CL-075-C-24,Classic,75%,Classic,24,6.0,0.25,0.9
+CL-075-M-16,Classic,75%,Mini,16,4.48,0.28,0.67
+CL-075-M-20,Classic,75%,Mini,20,5.6,0.28,0.84
+CL-075-M-24,Classic,75%,Mini,24,6.72,0.28,1.01
+CL-075-P-16,Classic,75%,Popping,16,4.8,0.3,0.72
+CL-075-P-20,Classic,75%,Popping,20,6.0,0.3,0.9
+CL-075-P-24,Classic,75%,Popping,24,7.2,0.3,1.08
+CL-075-J-16,Classic,75%,Jelly,16,4.48,0.28,0.67
+CL-075-J-20,Classic,75%,Jelly,20,5.6,0.28,0.84
+CL-075-J-24,Classic,75%,Jelly,24,6.72,0.28,1.01
+CL-075-W-16,Classic,75%,Without,16,3.84,0.24,0.58
+CL-075-W-20,Classic,75%,Without,20,4.8,0.24,0.72
+CL-075-W-24,Classic,75%,Without,24,5.76,0.24,0.86
+CL-050-C-16,Classic,50%,Classic,16,4.0,0.25,0.6
+CL-050-C-20,Classic,50%,Classic,20,5.0,0.25,0.75
+CL-050-C-24,Classic,50%,Classic,24,6.0,0.25,0.9
+CL-050-M-16,Classic,50%,Mini,16,4.48,0.28,0.67
+CL-050-M-20,Classic,50%,Mini,20,5.6,0.28,0.84
+CL-050-M-24,Classic,50%,Mini,24,6.72,0.28,1.01
+CL-050-P-16,Classic,50%,Popping,16,4.8,0.3,0.72
+CL-050-P-20,Classic,50%,Popping,20,6.0,0.3,0.9
+CL-050-P-24,Classic,50%,Popping,24,7.2,0.3,1.08
+CL-050-J-16,Classic,50%,Jelly,16,4.48,0.28,0.67
+CL-050-J-20,Classic,50%,Jelly,20,5.6,0.28,0.84
+CL-050-J-24,Classic,50%,Jelly,24,6.72,0.28,1.01
+CL-050-W-16,Classic,50%,Without,16,3.84,0.24,0.58
+CL-050-W-20,Classic,50%,Without,20,4.8,0.24,0.72
+CL-050-W-24,Classic,50%,Without,24,5.76,0.24,0.86
+CL-025-C-16,Classic,25%,Classic,16,4.0,0.25,0.6
+CL-025-C-20,Classic,25%,Classic,20,5.0,0.25,0.75
+CL-025-C-24,Classic,25%,Classic,24,6.0,0.25,0.9
+CL-025-M-16,Classic,25%,Mini,16,4.48,0.28,0.67
+CL-025-M-20,Classic,25%,Mini,20,5.6,0.28,0.84
+CL-025-M-24,Classic,25%,Mini,24,6.72,0.28,1.01
+CL-025-P-16,Classic,25%,Popping,16,4.8,0.3,0.72
+CL-025-P-20,Classic,25%,Popping,20,6.0,0.3,0.9
+CL-025-P-24,Classic,25%,Popping,24,7.2,0.3,1.08
+CL-025-J-16,Classic,25%,Jelly,16,4.48,0.28,0.67
+CL-025-J-20,Classic,25%,Jelly,20,5.6,0.28,0.84
+CL-025-J-24,Classic,25%,Jelly,24,6.72,0.28,1.01
+CL-025-W-16,Classic,25%,Without,16,3.84,0.24,0.58
+CL-025-W-20,Classic,25%,Without,20,4.8,0.24,0.72
+CL-025-W-24,Classic,25%,Without,24,5.76,0.24,0.86
+CL-000-C-16,Classic,0%,Classic,16,4.0,0.25,0.6
+CL-000-C-20,Classic,0%,Classic,20,5.0,0.25,0.75
+CL-000-C-24,Classic,0%,Classic,24,6.0,0.25,0.9
+CL-000-M-16,Classic,0%,Mini,16,4.48,0.28,0.67
+CL-000-M-20,Classic,0%,Mini,20,5.6,0.28,0.84
+CL-000-M-24,Classic,0%,Mini,24,6.72,0.28,1.01
+CL-000-P-16,Classic,0%,Popping,16,4.8,0.3,0.72
+CL-000-P-20,Classic,0%,Popping,20,6.0,0.3,0.9
+CL-000-P-24,Classic,0%,Popping,24,7.2,0.3,1.08
+CL-000-J-16,Classic,0%,Jelly,16,4.48,0.28,0.67
+CL-000-J-20,Classic,0%,Jelly,20,5.6,0.28,0.84
+CL-000-J-24,Classic,0%,Jelly,24,6.72,0.28,1.01
+CL-000-W-16,Classic,0%,Without,16,3.84,0.24,0.58
+CL-000-W-20,Classic,0%,Without,20,4.8,0.24,0.72
+CL-000-W-24,Classic,0%,Without,24,5.76,0.24,0.86
+BS-100-C-16,Brown Sugar,100%,Classic,16,4.0,0.25,0.6
+BS-100-C-20,Brown Sugar,100%,Classic,20,5.0,0.25,0.75
+BS-100-C-24,Brown Sugar,100%,Classic,24,6.0,0.25,0.9
+BS-100-M-16,Brown Sugar,100%,Mini,16,4.48,0.28,0.67
+BS-100-M-20,Brown Sugar,100%,Mini,20,5.6,0.28,0.84
+BS-100-M-24,Brown Sugar,100%,Mini,24,6.72,0.28,1.01
+BS-100-P-16,Brown Sugar,100%,Popping,16,4.8,0.3,0.72
+BS-100-P-20,Brown Sugar,100%,Popping,20,6.0,0.3,0.9
+BS-100-P-24,Brown Sugar,100%,Popping,24,7.2,0.3,1.08
+BS-100-J-16,Brown Sugar,100%,Jelly,16,4.48,0.28,0.67
+BS-100-J-20,Brown Sugar,100%,Jelly,20,5.6,0.28,0.84
+BS-100-J-24,Brown Sugar,100%,Jelly,24,6.72,0.28,1.01
+BS-100-W-16,Brown Sugar,100%,Without,16,3.84,0.24,0.58
+BS-100-W-20,Brown Sugar,100%,Without,20,4.8,0.24,0.72
+BS-100-W-24,Brown Sugar,100%,Without,24,5.76,0.24,0.86
+BS-075-C-16,Brown Sugar,75%,Classic,16,4.0,0.25,0.6
+BS-075-C-20,Brown Sugar,75%,Classic,20,5.0,0.25,0.75
+BS-075-C-24,Brown Sugar,75%,Classic,24,6.0,0.25,0.9
+BS-075-M-16,Brown Sugar,75%,Mini,16,4.48,0.28,0.67
+BS-075-M-20,Brown Sugar,75%,Mini,20,5.6,0.28,0.84
+BS-075-M-24,Brown Sugar,75%,Mini,24,6.72,0.28,1.01
+BS-075-P-16,Brown Sugar,75%,Popping,16,4.8,0.3,0.72
+BS-075-P-20,Brown Sugar,75%,Popping,20,6.0,0.3,0.9
+BS-075-P-24,Brown Sugar,75%,Popping,24,7.2,0.3,1.08
+BS-075-J-16,Brown Sugar,75%,Jelly,16,4.48,0.28,0.67
+BS-075-J-20,Brown Sugar,75%,Jelly,20,5.6,0.28,0.84
+BS-075-J-24,Brown Sugar,75%,Jelly,24,6.72,0.28,1.01
+BS-075-W-16,Brown Sugar,75%,Without,16,3.84,0.24,0.58
+BS-075-W-20,Brown Sugar,75%,Without,20,4.8,0.24,0.72
+BS-075-W-24,Brown Sugar,75%,Without,24,5.76,0.24,0.86
+BS-050-C-16,Brown Sugar,50%,Classic,16,4.0,0.25,0.6
+BS-050-C-20,Brown Sugar,50%,Classic,20,5.0,0.25,0.75
+BS-050-C-24,Brown Sugar,50%,Classic,24,6.0,0.25,0.9
+BS-050-M-16,Brown Sugar,50%,Mini,16,4.48,0.28,0.67
+BS-050-M-20,Brown Sugar,50%,Mini,20,5.6,0.28,0.84
+BS-050-M-24,Brown Sugar,50%,Mini,24,6.72,0.28,1.01
+BS-050-P-16,Brown Sugar,50%,Popping,16,4.8,0.3,0.72
+BS-050-P-20,Brown Sugar,50%,Popping,20,6.0,0.3,0.9
+BS-050-P-24,Brown Sugar,50%,Popping,24,7.2,0.3,1.08
+BS-050-J-16,Brown Sugar,50%,Jelly,16,4.48,0.28,0.67
+BS-050-J-20,Brown Sugar,50%,Jelly,20,5.6,0.28,0.84
+BS-050-J-24,Brown Sugar,50%,Jelly,24,6.72,0.28,1.01
+BS-050-W-16,Brown Sugar,50%,Without,16,3.84,0.24,0.58
+BS-050-W-20,Brown Sugar,50%,Without,20,4.8,0.24,0.72
+BS-050-W-24,Brown Sugar,50%,Without,24,5.76,0.24,0.86
+BS-025-C-16,Brown Sugar,25%,Classic,16,4.0,0.25,0.6
+BS-025-C-20,Brown Sugar,25%,Classic,20,5.0,0.25,0.75
+BS-025-C-24,Brown Sugar,25%,Classic,24,6.0,0.25,0.9
+BS-025-M-16,Brown Sugar,25%,Mini,16,4.48,0.28,0.67
+BS-025-M-20,Brown Sugar,25%,Mini,20,5.6,0.28,0.84
+BS-025-M-24,Brown Sugar,25%,Mini,24,6.72,0.28,1.01
+BS-025-P-16,Brown Sugar,25%,Popping,16,4.8,0.3,0.72
+BS-025-P-20,Brown Sugar,25%,Popping,20,6.0,0.3,0.9
+BS-025-P-24,Brown Sugar,25%,Popping,24,7.2,0.3,1.08
+BS-025-J-16,Brown Sugar,25%,Jelly,16,4.48,0.28,0.67
+BS-025-J-20,Brown Sugar,25%,Jelly,20,5.6,0.28,0.84
+BS-025-J-24,Brown Sugar,25%,Jelly,24,6.72,0.28,1.01
+BS-025-W-16,Brown Sugar,25%,Without,16,3.84,0.24,0.58
+BS-025-W-20,Brown Sugar,25%,Without,20,4.8,0.24,0.72
+BS-025-W-24,Brown Sugar,25%,Without,24,5.76,0.24,0.86
+BS-000-C-16,Brown Sugar,0%,Classic,16,4.0,0.25,0.6
+BS-000-C-20,Brown Sugar,0%,Classic,20,5.0,0.25,0.75
+BS-000-C-24,Brown Sugar,0%,Classic,24,6.0,0.25,0.9
+BS-000-M-16,Brown Sugar,0%,Mini,16,4.48,0.28,0.67
+BS-000-M-20,Brown Sugar,0%,Mini,20,5.6,0.28,0.84
+BS-000-M-24,Brown Sugar,0%,Mini,24,6.72,0.28,1.01
+BS-000-P-16,Brown Sugar,0%,Popping,16,4.8,0.3,0.72
+BS-000-P-20,Brown Sugar,0%,Popping,20,6.0,0.3,0.9
+BS-000-P-24,Brown Sugar,0%,Popping,24,7.2,0.3,1.08
+BS-000-J-16,Brown Sugar,0%,Jelly,16,4.48,0.28,0.67
+BS-000-J-20,Brown Sugar,0%,Jelly,20,5.6,0.28,0.84
+BS-000-J-24,Brown Sugar,0%,Jelly,24,6.72,0.28,1.01
+BS-000-W-16,Brown Sugar,0%,Without,16,3.84,0.24,0.58
+BS-000-W-20,Brown Sugar,0%,Without,20,4.8,0.24,0.72
+BS-000-W-24,Brown Sugar,0%,Without,24,5.76,0.24,0.86
+MA-100-C-16,Matcha,100%,Classic,16,4.0,0.25,0.6
+MA-100-C-20,Matcha,100%,Classic,20,5.0,0.25,0.75
+MA-100-C-24,Matcha,100%,Classic,24,6.0,0.25,0.9
+MA-100-M-16,Matcha,100%,Mini,16,4.48,0.28,0.67
+MA-100-M-20,Matcha,100%,Mini,20,5.6,0.28,0.84
+MA-100-M-24,Matcha,100%,Mini,24,6.72,0.28,1.01
+MA-100-P-16,Matcha,100%,Popping,16,4.8,0.3,0.72
+MA-100-P-20,Matcha,100%,Popping,20,6.0,0.3,0.9
+MA-100-P-24,Matcha,100%,Popping,24,7.2,0.3,1.08
+MA-100-J-16,Matcha,100%,Jelly,16,4.48,0.28,0.67
+MA-100-J-20,Matcha,100%,Jelly,20,5.6,0.28,0.84
+MA-100-J-24,Matcha,100%,Jelly,24,6.72,0.28,1.01
+MA-100-W-16,Matcha,100%,Without,16,3.84,0.24,0.58
+MA-100-W-20,Matcha,100%,Without,20,4.8,0.24,0.72
+MA-100-W-24,Matcha,100%,Without,24,5.76,0.24,0.86
+MA-075-C-16,Matcha,75%,Classic,16,4.0,0.25,0.6
+MA-075-C-20,Matcha,75%,Classic,20,5.0,0.25,0.75
+MA-075-C-24,Matcha,75%,Classic,24,6.0,0.25,0.9
+MA-075-M-16,Matcha,75%,Mini,16,4.48,0.28,0.67
+MA-075-M-20,Matcha,75%,Mini,20,5.6,0.28,0.84
+MA-075-M-24,Matcha,75%,Mini,24,6.72,0.28,1.01
+MA-075-P-16,Matcha,75%,Popping,16,4.8,0.3,0.72
+MA-075-P-20,Matcha,75%,Popping,20,6.0,0.3,0.9
+MA-075-P-24,Matcha,75%,Popping,24,7.2,0.3,1.08
+MA-075-J-16,Matcha,75%,Jelly,16,4.48,0.28,0.67
+MA-075-J-20,Matcha,75%,Jelly,20,5.6,0.28,0.84
+MA-075-J-24,Matcha,75%,Jelly,24,6.72,0.28,1.01
+MA-075-W-16,Matcha,75%,Without,16,3.84,0.24,0.58
+MA-075-W-20,Matcha,75%,Without,20,4.8,0.24,0.72
+MA-075-W-24,Matcha,75%,Without,24,5.76,0.24,0.86
+MA-050-C-16,Matcha,50%,Classic,16,4.0,0.25,0.6
+MA-050-C-20,Matcha,50%,Classic,20,5.0,0.25,0.75
+MA-050-C-24,Matcha,50%,Classic,24,6.0,0.25,0.9
+MA-050-M-16,Matcha,50%,Mini,16,4.48,0.28,0.67
+MA-050-M-20,Matcha,50%,Mini,20,5.6,0.28,0.84
+MA-050-M-24,Matcha,50%,Mini,24,6.72,0.28,1.01
+MA-050-P-16,Matcha,50%,Popping,16,4.8,0.3,0.72
+MA-050-P-20,Matcha,50%,Popping,20,6.0,0.3,0.9
+MA-050-P-24,Matcha,50%,Popping,24,7.2,0.3,1.08
+MA-050-J-16,Matcha,50%,Jelly,16,4.48,0.28,0.67
+MA-050-J-20,Matcha,50%,Jelly,20,5.6,0.28,0.84
+MA-050-J-24,Matcha,50%,Jelly,24,6.72,0.28,1.01
+MA-050-W-16,Matcha,50%,Without,16,3.84,0.24,0.58
+MA-050-W-20,Matcha,50%,Without,20,4.8,0.24,0.72
+MA-050-W-24,Matcha,50%,Without,24,5.76,0.24,0.86
+MA-025-C-16,Matcha,25%,Classic,16,4.0,0.25,0.6
+MA-025-C-20,Matcha,25%,Classic,20,5.0,0.25,0.75
+MA-025-C-24,Matcha,25%,Classic,24,6.0,0.25,0.9
+MA-025-M-16,Matcha,25%,Mini,16,4.48,0.28,0.67
+MA-025-M-20,Matcha,25%,Mini,20,5.6,0.28,0.84
+MA-025-M-24,Matcha,25%,Mini,24,6.72,0.28,1.01
+MA-025-P-16,Matcha,25%,Popping,16,4.8,0.3,0.72
+MA-025-P-20,Matcha,25%,Popping,20,6.0,0.3,0.9
+MA-025-P-24,Matcha,25%,Popping,24,7.2,0.3,1.08
+MA-025-J-16,Matcha,25%,Jelly,16,4.48,0.28,0.67
+MA-025-J-20,Matcha,25%,Jelly,20,5.6,0.28,0.84
+MA-025-J-24,Matcha,25%,Jelly,24,6.72,0.28,1.01
+MA-025-W-16,Matcha,25%,Without,16,3.84,0.24,0.58
+MA-025-W-20,Matcha,25%,Without,20,4.8,0.24,0.72
+MA-025-W-24,Matcha,25%,Without,24,5.76,0.24,0.86
+MA-000-C-16,Matcha,0%,Classic,16,4.0,0.25,0.6
+MA-000-C-20,Matcha,0%,Classic,20,5.0,0.25,0.75
+MA-000-C-24,Matcha,0%,Classic,24,6.0,0.25,0.9
+MA-000-M-16,Matcha,0%,Mini,16,4.48,0.28,0.67
+MA-000-M-20,Matcha,0%,Mini,20,5.6,0.28,0.84
+MA-000-M-24,Matcha,0%,Mini,24,6.72,0.28,1.01
+MA-000-P-16,Matcha,0%,Popping,16,4.8,0.3,0.72
+MA-000-P-20,Matcha,0%,Popping,20,6.0,0.3,0.9
+MA-000-P-24,Matcha,0%,Popping,24,7.2,0.3,1.08
+MA-000-J-16,Matcha,0%,Jelly,16,4.48,0.28,0.67
+MA-000-J-20,Matcha,0%,Jelly,20,5.6,0.28,0.84
+MA-000-J-24,Matcha,0%,Jelly,24,6.72,0.28,1.01
+MA-000-W-16,Matcha,0%,Without,16,3.84,0.24,0.58
+MA-000-W-20,Matcha,0%,Without,20,4.8,0.24,0.72
+MA-000-W-24,Matcha,0%,Without,24,5.76,0.24,0.86
+TR-100-C-16,Taro,100%,Classic,16,4.0,0.25,0.6
+TR-100-C-20,Taro,100%,Classic,20,5.0,0.25,0.75
+TR-100-C-24,Taro,100%,Classic,24,6.0,0.25,0.9
+TR-100-M-16,Taro,100%,Mini,16,4.48,0.28,0.67
+TR-100-M-20,Taro,100%,Mini,20,5.6,0.28,0.84
+TR-100-M-24,Taro,100%,Mini,24,6.72,0.28,1.01
+TR-100-P-16,Taro,100%,Popping,16,4.8,0.3,0.72
+TR-100-P-20,Taro,100%,Popping,20,6.0,0.3,0.9
+TR-100-P-24,Taro,100%,Popping,24,7.2,0.3,1.08
+TR-100-J-16,Taro,100%,Jelly,16,4.48,0.28,0.67
+TR-100-J-20,Taro,100%,Jelly,20,5.6,0.28,0.84
+TR-100-J-24,Taro,100%,Jelly,24,6.72,0.28,1.01
+TR-100-W-16,Taro,100%,Without,16,3.84,0.24,0.58
+TR-100-W-20,Taro,100%,Without,20,4.8,0.24,0.72
+TR-100-W-24,Taro,100%,Without,24,5.76,0.24,0.86
+TR-075-C-16,Taro,75%,Classic,16,4.0,0.25,0.6
+TR-075-C-20,Taro,75%,Classic,20,5.0,0.25,0.75
+TR-075-C-24,Taro,75%,Classic,24,6.0,0.25,0.9
+TR-075-M-16,Taro,75%,Mini,16,4.48,0.28,0.67
+TR-075-M-20,Taro,75%,Mini,20,5.6,0.28,0.84
+TR-075-M-24,Taro,75%,Mini,24,6.72,0.28,1.01
+TR-075-P-16,Taro,75%,Popping,16,4.8,0.3,0.72
+TR-075-P-20,Taro,75%,Popping,20,6.0,0.3,0.9
+TR-075-P-24,Taro,75%,Popping,24,7.2,0.3,1.08
+TR-075-J-16,Taro,75%,Jelly,16,4.48,0.28,0.67
+TR-075-J-20,Taro,75%,Jelly,20,5.6,0.28,0.84
+TR-075-J-24,Taro,75%,Jelly,24,6.72,0.28,1.01
+TR-075-W-16,Taro,75%,Without,16,3.84,0.24,0.58
+TR-075-W-20,Taro,75%,Without,20,4.8,0.24,0.72
+TR-075-W-24,Taro,75%,Without,24,5.76,0.24,0.86
+TR-050-C-16,Taro,50%,Classic,16,4.0,0.25,0.6
+TR-050-C-20,Taro,50%,Classic,20,5.0,0.25,0.75
+TR-050-C-24,Taro,50%,Classic,24,6.0,0.25,0.9
+TR-050-M-16,Taro,50%,Mini,16,4.48,0.28,0.67
+TR-050-M-20,Taro,50%,Mini,20,5.6,0.28,0.84
+TR-050-M-24,Taro,50%,Mini,24,6.72,0.28,1.01
+TR-050-P-16,Taro,50%,Popping,16,4.8,0.3,0.72
+TR-050-P-20,Taro,50%,Popping,20,6.0,0.3,0.9
+TR-050-P-24,Taro,50%,Popping,24,7.2,0.3,1.08
+TR-050-J-16,Taro,50%,Jelly,16,4.48,0.28,0.67
+TR-050-J-20,Taro,50%,Jelly,20,5.6,0.28,0.84
+TR-050-J-24,Taro,50%,Jelly,24,6.72,0.28,1.01
+TR-050-W-16,Taro,50%,Without,16,3.84,0.24,0.58
+TR-050-W-20,Taro,50%,Without,20,4.8,0.24,0.72
+TR-050-W-24,Taro,50%,Without,24,5.76,0.24,0.86
+TR-025-C-16,Taro,25%,Classic,16,4.0,0.25,0.6
+TR-025-C-20,Taro,25%,Classic,20,5.0,0.25,0.75
+TR-025-C-24,Taro,25%,Classic,24,6.0,0.25,0.9
+TR-025-M-16,Taro,25%,Mini,16,4.48,0.28,0.67
+TR-025-M-20,Taro,25%,Mini,20,5.6,0.28,0.84
+TR-025-M-24,Taro,25%,Mini,24,6.72,0.28,1.01
+TR-025-P-16,Taro,25%,Popping,16,4.8,0.3,0.72
+TR-025-P-20,Taro,25%,Popping,20,6.0,0.3,0.9
+TR-025-P-24,Taro,25%,Popping,24,7.2,0.3,1.08
+TR-025-J-16,Taro,25%,Jelly,16,4.48,0.28,0.67
+TR-025-J-20,Taro,25%,Jelly,20,5.6,0.28,0.84
+TR-025-J-24,Taro,25%,Jelly,24,6.72,0.28,1.01
+TR-025-W-16,Taro,25%,Without,16,3.84,0.24,0.58
+TR-025-W-20,Taro,25%,Without,20,4.8,0.24,0.72
+TR-025-W-24,Taro,25%,Without,24,5.76,0.24,0.86
+TR-000-C-16,Taro,0%,Classic,16,4.0,0.25,0.6
+TR-000-C-20,Taro,0%,Classic,20,5.0,0.25,0.75
+TR-000-C-24,Taro,0%,Classic,24,6.0,0.25,0.9
+TR-000-M-16,Taro,0%,Mini,16,4.48,0.28,0.67
+TR-000-M-20,Taro,0%,Mini,20,5.6,0.28,0.84
+TR-000-M-24,Taro,0%,Mini,24,6.72,0.28,1.01
+TR-000-P-16,Taro,0%,Popping,16,4.8,0.3,0.72
+TR-000-P-20,Taro,0%,Popping,20,6.0,0.3,0.9
+TR-000-P-24,Taro,0%,Popping,24,7.2,0.3,1.08
+TR-000-J-16,Taro,0%,Jelly,16,4.48,0.28,0.67
+TR-000-J-20,Taro,0%,Jelly,20,5.6,0.28,0.84
+TR-000-J-24,Taro,0%,Jelly,24,6.72,0.28,1.01
+TR-000-W-16,Taro,0%,Without,16,3.84,0.24,0.58
+TR-000-W-20,Taro,0%,Without,20,4.8,0.24,0.72
+TR-000-W-24,Taro,0%,Without,24,5.76,0.24,0.86
+ST-100-C-16,Strawberry,100%,Classic,16,4.0,0.25,0.6
+ST-100-C-20,Strawberry,100%,Classic,20,5.0,0.25,0.75
+ST-100-C-24,Strawberry,100%,Classic,24,6.0,0.25,0.9
+ST-100-M-16,Strawberry,100%,Mini,16,4.48,0.28,0.67
+ST-100-M-20,Strawberry,100%,Mini,20,5.6,0.28,0.84
+ST-100-M-24,Strawberry,100%,Mini,24,6.72,0.28,1.01
+ST-100-P-16,Strawberry,100%,Popping,16,4.8,0.3,0.72
+ST-100-P-20,Strawberry,100%,Popping,20,6.0,0.3,0.9
+ST-100-P-24,Strawberry,100%,Popping,24,7.2,0.3,1.08
+ST-100-J-16,Strawberry,100%,Jelly,16,4.48,0.28,0.67
+ST-100-J-20,Strawberry,100%,Jelly,20,5.6,0.28,0.84
+ST-100-J-24,Strawberry,100%,Jelly,24,6.72,0.28,1.01
+ST-100-W-16,Strawberry,100%,Without,16,3.84,0.24,0.58
+ST-100-W-20,Strawberry,100%,Without,20,4.8,0.24,0.72
+ST-100-W-24,Strawberry,100%,Without,24,5.76,0.24,0.86
+ST-075-C-16,Strawberry,75%,Classic,16,4.0,0.25,0.6
+ST-075-C-20,Strawberry,75%,Classic,20,5.0,0.25,0.75
+ST-075-C-24,Strawberry,75%,Classic,24,6.0,0.25,0.9
+ST-075-M-16,Strawberry,75%,Mini,16,4.48,0.28,0.67
+ST-075-M-20,Strawberry,75%,Mini,20,5.6,0.28,0.84
+ST-075-M-24,Strawberry,75%,Mini,24,6.72,0.28,1.01
+ST-075-P-16,Strawberry,75%,Popping,16,4.8,0.3,0.72
+ST-075-P-20,Strawberry,75%,Popping,20,6.0,0.3,0.9
+ST-075-P-24,Strawberry,75%,Popping,24,7.2,0.3,1.08
+ST-075-J-16,Strawberry,75%,Jelly,16,4.48,0.28,0.67
+ST-075-J-20,Strawberry,75%,Jelly,20,5.6,0.28,0.84
+ST-075-J-24,Strawberry,75%,Jelly,24,6.72,0.28,1.01
+ST-075-W-16,Strawberry,75%,Without,16,3.84,0.24,0.58
+ST-075-W-20,Strawberry,75%,Without,20,4.8,0.24,0.72
+ST-075-W-24,Strawberry,75%,Without,24,5.76,0.24,0.86
+ST-050-C-16,Strawberry,50%,Classic,16,4.0,0.25,0.6
+ST-050-C-20,Strawberry,50%,Classic,20,5.0,0.25,0.75
+ST-050-C-24,Strawberry,50%,Classic,24,6.0,0.25,0.9
+ST-050-M-16,Strawberry,50%,Mini,16,4.48,0.28,0.67
+ST-050-M-20,Strawberry,50%,Mini,20,5.6,0.28,0.84
+ST-050-M-24,Strawberry,50%,Mini,24,6.72,0.28,1.01
+ST-050-P-16,Strawberry,50%,Popping,16,4.8,0.3,0.72
+ST-050-P-20,Strawberry,50%,Popping,20,6.0,0.3,0.9
+ST-050-P-24,Strawberry,50%,Popping,24,7.2,0.3,1.08
+ST-050-J-16,Strawberry,50%,Jelly,16,4.48,0.28,0.67
+ST-050-J-20,Strawberry,50%,Jelly,20,5.6,0.28,0.84
+ST-050-J-24,Strawberry,50%,Jelly,24,6.72,0.28,1.01
+ST-050-W-16,Strawberry,50%,Without,16,3.84,0.24,0.58
+ST-050-W-20,Strawberry,50%,Without,20,4.8,0.24,0.72
+ST-050-W-24,Strawberry,50%,Without,24,5.76,0.24,0.86
+ST-025-C-16,Strawberry,25%,Classic,16,4.0,0.25,0.6
+ST-025-C-20,Strawberry,25%,Classic,20,5.0,0.25,0.75
+ST-025-C-24,Strawberry,25%,Classic,24,6.0,0.25,0.9
+ST-025-M-16,Strawberry,25%,Mini,16,4.48,0.28,0.67
+ST-025-M-20,Strawberry,25%,Mini,20,5.6,0.28,0.84
+ST-025-M-24,Strawberry,25%,Mini,24,6.72,0.28,1.01
+ST-025-P-16,Strawberry,25%,Popping,16,4.8,0.3,0.72
+ST-025-P-20,Strawberry,25%,Popping,20,6.0,0.3,0.9
+ST-025-P-24,Strawberry,25%,Popping,24,7.2,0.3,1.08
+ST-025-J-16,Strawberry,25%,Jelly,16,4.48,0.28,0.67
+ST-025-J-20,Strawberry,25%,Jelly,20,5.6,0.28,0.84
+ST-025-J-24,Strawberry,25%,Jelly,24,6.72,0.28,1.01
+ST-025-W-16,Strawberry,25%,Without,16,3.84,0.24,0.58
+ST-025-W-20,Strawberry,25%,Without,20,4.8,0.24,0.72
+ST-025-W-24,Strawberry,25%,Without,24,5.76,0.24,0.86
+ST-000-C-16,Strawberry,0%,Classic,16,4.0,0.25,0.6
+ST-000-C-20,Strawberry,0%,Classic,20,5.0,0.25,0.75
+ST-000-C-24,Strawberry,0%,Classic,24,6.0,0.25,0.9
+ST-000-M-16,Strawberry,0%,Mini,16,4.48,0.28,0.67
+ST-000-M-20,Strawberry,0%,Mini,20,5.6,0.28,0.84
+ST-000-M-24,Strawberry,0%,Mini,24,6.72,0.28,1.01
+ST-000-P-16,Strawberry,0%,Popping,16,4.8,0.3,0.72
+ST-000-P-20,Strawberry,0%,Popping,20,6.0,0.3,0.9
+ST-000-P-24,Strawberry,0%,Popping,24,7.2,0.3,1.08
+ST-000-J-16,Strawberry,0%,Jelly,16,4.48,0.28,0.67
+ST-000-J-20,Strawberry,0%,Jelly,20,5.6,0.28,0.84
+ST-000-J-24,Strawberry,0%,Jelly,24,6.72,0.28,1.01
+ST-000-W-16,Strawberry,0%,Without,16,3.84,0.24,0.58
+ST-000-W-20,Strawberry,0%,Without,20,4.8,0.24,0.72
+ST-000-W-24,Strawberry,0%,Without,24,5.76,0.24,0.86
+PF-100-C-16,Passionfruit,100%,Classic,16,4.0,0.25,0.6
+PF-100-C-20,Passionfruit,100%,Classic,20,5.0,0.25,0.75
+PF-100-C-24,Passionfruit,100%,Classic,24,6.0,0.25,0.9
+PF-100-M-16,Passionfruit,100%,Mini,16,4.48,0.28,0.67
+PF-100-M-20,Passionfruit,100%,Mini,20,5.6,0.28,0.84
+PF-100-M-24,Passionfruit,100%,Mini,24,6.72,0.28,1.01
+PF-100-P-16,Passionfruit,100%,Popping,16,4.8,0.3,0.72
+PF-100-P-20,Passionfruit,100%,Popping,20,6.0,0.3,0.9
+PF-100-P-24,Passionfruit,100%,Popping,24,7.2,0.3,1.08
+PF-100-J-16,Passionfruit,100%,Jelly,16,4.48,0.28,0.67
+PF-100-J-20,Passionfruit,100%,Jelly,20,5.6,0.28,0.84
+PF-100-J-24,Passionfruit,100%,Jelly,24,6.72,0.28,1.01
+PF-100-W-16,Passionfruit,100%,Without,16,3.84,0.24,0.58
+PF-100-W-20,Passionfruit,100%,Without,20,4.8,0.24,0.72
+PF-100-W-24,Passionfruit,100%,Without,24,5.76,0.24,0.86
+PF-075-C-16,Passionfruit,75%,Classic,16,4.0,0.25,0.6
+PF-075-C-20,Passionfruit,75%,Classic,20,5.0,0.25,0.75
+PF-075-C-24,Passionfruit,75%,Classic,24,6.0,0.25,0.9
+PF-075-M-16,Passionfruit,75%,Mini,16,4.48,0.28,0.67
+PF-075-M-20,Passionfruit,75%,Mini,20,5.6,0.28,0.84
+PF-075-M-24,Passionfruit,75%,Mini,24,6.72,0.28,1.01
+PF-075-P-16,Passionfruit,75%,Popping,16,4.8,0.3,0.72
+PF-075-P-20,Passionfruit,75%,Popping,20,6.0,0.3,0.9
+PF-075-P-24,Passionfruit,75%,Popping,24,7.2,0.3,1.08
+PF-075-J-16,Passionfruit,75%,Jelly,16,4.48,0.28,0.67
+PF-075-J-20,Passionfruit,75%,Jelly,20,5.6,0.28,0.84
+PF-075-J-24,Passionfruit,75%,Jelly,24,6.72,0.28,1.01
+PF-075-W-16,Passionfruit,75%,Without,16,3.84,0.24,0.58
+PF-075-W-20,Passionfruit,75%,Without,20,4.8,0.24,0.72
+PF-075-W-24,Passionfruit,75%,Without,24,5.76,0.24,0.86
+PF-050-C-16,Passionfruit,50%,Classic,16,4.0,0.25,0.6
+PF-050-C-20,Passionfruit,50%,Classic,20,5.0,0.25,0.75
+PF-050-C-24,Passionfruit,50%,Classic,24,6.0,0.25,0.9
+PF-050-M-16,Passionfruit,50%,Mini,16,4.48,0.28,0.67
+PF-050-M-20,Passionfruit,50%,Mini,20,5.6,0.28,0.84
+PF-050-M-24,Passionfruit,50%,Mini,24,6.72,0.28,1.01
+PF-050-P-16,Passionfruit,50%,Popping,16,4.8,0.3,0.72
+PF-050-P-20,Passionfruit,50%,Popping,20,6.0,0.3,0.9
+PF-050-P-24,Passionfruit,50%,Popping,24,7.2,0.3,1.08
+PF-050-J-16,Passionfruit,50%,Jelly,16,4.48,0.28,0.67
+PF-050-J-20,Passionfruit,50%,Jelly,20,5.6,0.28,0.84
+PF-050-J-24,Passionfruit,50%,Jelly,24,6.72,0.28,1.01
+PF-050-W-16,Passionfruit,50%,Without,16,3.84,0.24,0.58
+PF-050-W-20,Passionfruit,50%,Without,20,4.8,0.24,0.72
+PF-050-W-24,Passionfruit,50%,Without,24,5.76,0.24,0.86
+PF-025-C-16,Passionfruit,25%,Classic,16,4.0,0.25,0.6
+PF-025-C-20,Passionfruit,25%,Classic,20,5.0,0.25,0.75
+PF-025-C-24,Passionfruit,25%,Classic,24,6.0,0.25,0.9
+PF-025-M-16,Passionfruit,25%,Mini,16,4.48,0.28,0.67
+PF-025-M-20,Passionfruit,25%,Mini,20,5.6,0.28,0.84
+PF-025-M-24,Passionfruit,25%,Mini,24,6.72,0.28,1.01
+PF-025-P-16,Passionfruit,25%,Popping,16,4.8,0.3,0.72
+PF-025-P-20,Passionfruit,25%,Popping,20,6.0,0.3,0.9
+PF-025-P-24,Passionfruit,25%,Popping,24,7.2,0.3,1.08
+PF-025-J-16,Passionfruit,25%,Jelly,16,4.48,0.28,0.67
+PF-025-J-20,Passionfruit,25%,Jelly,20,5.6,0.28,0.84
+PF-025-J-24,Passionfruit,25%,Jelly,24,6.72,0.28,1.01
+PF-025-W-16,Passionfruit,25%,Without,16,3.84,0.24,0.58
+PF-025-W-20,Passionfruit,25%,Without,20,4.8,0.24,0.72
+PF-025-W-24,Passionfruit,25%,Without,24,5.76,0.24,0.86
+PF-000-C-16,Passionfruit,0%,Classic,16,4.0,0.25,0.6
+PF-000-C-20,Passionfruit,0%,Classic,20,5.0,0.25,0.75
+PF-000-C-24,Passionfruit,0%,Classic,24,6.0,0.25,0.9
+PF-000-M-16,Passionfruit,0%,Mini,16,4.48,0.28,0.67
+PF-000-M-20,Passionfruit,0%,Mini,20,5.6,0.28,0.84
+PF-000-M-24,Passionfruit,0%,Mini,24,6.72,0.28,1.01
+PF-000-P-16,Passionfruit,0%,Popping,16,4.8,0.3,0.72
+PF-000-P-20,Passionfruit,0%,Popping,20,6.0,0.3,0.9
+PF-000-P-24,Passionfruit,0%,Popping,24,7.2,0.3,1.08
+PF-000-J-16,Passionfruit,0%,Jelly,16,4.48,0.28,0.67
+PF-000-J-20,Passionfruit,0%,Jelly,20,5.6,0.28,0.84
+PF-000-J-24,Passionfruit,0%,Jelly,24,6.72,0.28,1.01
+PF-000-W-16,Passionfruit,0%,Without,16,3.84,0.24,0.58
+PF-000-W-20,Passionfruit,0%,Without,20,4.8,0.24,0.72
+PF-000-W-24,Passionfruit,0%,Without,24,5.76,0.24,0.86
+MN-100-C-16,Mango,100%,Classic,16,4.0,0.25,0.6
+MN-100-C-20,Mango,100%,Classic,20,5.0,0.25,0.75
+MN-100-C-24,Mango,100%,Classic,24,6.0,0.25,0.9
+MN-100-M-16,Mango,100%,Mini,16,4.48,0.28,0.67
+MN-100-M-20,Mango,100%,Mini,20,5.6,0.28,0.84
+MN-100-M-24,Mango,100%,Mini,24,6.72,0.28,1.01
+MN-100-P-16,Mango,100%,Popping,16,4.8,0.3,0.72
+MN-100-P-20,Mango,100%,Popping,20,6.0,0.3,0.9
+MN-100-P-24,Mango,100%,Popping,24,7.2,0.3,1.08
+MN-100-J-16,Mango,100%,Jelly,16,4.48,0.28,0.67
+MN-100-J-20,Mango,100%,Jelly,20,5.6,0.28,0.84
+MN-100-J-24,Mango,100%,Jelly,24,6.72,0.28,1.01
+MN-100-W-16,Mango,100%,Without,16,3.84,0.24,0.58
+MN-100-W-20,Mango,100%,Without,20,4.8,0.24,0.72
+MN-100-W-24,Mango,100%,Without,24,5.76,0.24,0.86
+MN-075-C-16,Mango,75%,Classic,16,4.0,0.25,0.6
+MN-075-C-20,Mango,75%,Classic,20,5.0,0.25,0.75
+MN-075-C-24,Mango,75%,Classic,24,6.0,0.25,0.9
+MN-075-M-16,Mango,75%,Mini,16,4.48,0.28,0.67
+MN-075-M-20,Mango,75%,Mini,20,5.6,0.28,0.84
+MN-075-M-24,Mango,75%,Mini,24,6.72,0.28,1.01
+MN-075-P-16,Mango,75%,Popping,16,4.8,0.3,0.72
+MN-075-P-20,Mango,75%,Popping,20,6.0,0.3,0.9
+MN-075-P-24,Mango,75%,Popping,24,7.2,0.3,1.08
+MN-075-J-16,Mango,75%,Jelly,16,4.48,0.28,0.67
+MN-075-J-20,Mango,75%,Jelly,20,5.6,0.28,0.84
+MN-075-J-24,Mango,75%,Jelly,24,6.72,0.28,1.01
+MN-075-W-16,Mango,75%,Without,16,3.84,0.24,0.58
+MN-075-W-20,Mango,75%,Without,20,4.8,0.24,0.72
+MN-075-W-24,Mango,75%,Without,24,5.76,0.24,0.86
+MN-050-C-16,Mango,50%,Classic,16,4.0,0.25,0.6
+MN-050-C-20,Mango,50%,Classic,20,5.0,0.25,0.75
+MN-050-C-24,Mango,50%,Classic,24,6.0,0.25,0.9
+MN-050-M-16,Mango,50%,Mini,16,4.48,0.28,0.67
+MN-050-M-20,Mango,50%,Mini,20,5.6,0.28,0.84
+MN-050-M-24,Mango,50%,Mini,24,6.72,0.28,1.01
+MN-050-P-16,Mango,50%,Popping,16,4.8,0.3,0.72
+MN-050-P-20,Mango,50%,Popping,20,6.0,0.3,0.9
+MN-050-P-24,Mango,50%,Popping,24,7.2,0.3,1.08
+MN-050-J-16,Mango,50%,Jelly,16,4.48,0.28,0.67
+MN-050-J-20,Mango,50%,Jelly,20,5.6,0.28,0.84
+MN-050-J-24,Mango,50%,Jelly,24,6.72,0.28,1.01
+MN-050-W-16,Mango,50%,Without,16,3.84,0.24,0.58
+MN-050-W-20,Mango,50%,Without,20,4.8,0.24,0.72
+MN-050-W-24,Mango,50%,Without,24,5.76,0.24,0.86
+MN-025-C-16,Mango,25%,Classic,16,4.0,0.25,0.6
+MN-025-C-20,Mango,25%,Classic,20,5.0,0.25,0.75
+MN-025-C-24,Mango,25%,Classic,24,6.0,0.25,0.9
+MN-025-M-16,Mango,25%,Mini,16,4.48,0.28,0.67
+MN-025-M-20,Mango,25%,Mini,20,5.6,0.28,0.84
+MN-025-M-24,Mango,25%,Mini,24,6.72,0.28,1.01
+MN-025-P-16,Mango,25%,Popping,16,4.8,0.3,0.72
+MN-025-P-20,Mango,25%,Popping,20,6.0,0.3,0.9
+MN-025-P-24,Mango,25%,Popping,24,7.2,0.3,1.08
+MN-025-J-16,Mango,25%,Jelly,16,4.48,0.28,0.67
+MN-025-J-20,Mango,25%,Jelly,20,5.6,0.28,0.84
+MN-025-J-24,Mango,25%,Jelly,24,6.72,0.28,1.01
+MN-025-W-16,Mango,25%,Without,16,3.84,0.24,0.58
+MN-025-W-20,Mango,25%,Without,20,4.8,0.24,0.72
+MN-025-W-24,Mango,25%,Without,24,5.76,0.24,0.86
+MN-000-C-16,Mango,0%,Classic,16,4.0,0.25,0.6
+MN-000-C-20,Mango,0%,Classic,20,5.0,0.25,0.75
+MN-000-C-24,Mango,0%,Classic,24,6.0,0.25,0.9
+MN-000-M-16,Mango,0%,Mini,16,4.48,0.28,0.67
+MN-000-M-20,Mango,0%,Mini,20,5.6,0.28,0.84
+MN-000-M-24,Mango,0%,Mini,24,6.72,0.28,1.01
+MN-000-P-16,Mango,0%,Popping,16,4.8,0.3,0.72
+MN-000-P-20,Mango,0%,Popping,20,6.0,0.3,0.9
+MN-000-P-24,Mango,0%,Popping,24,7.2,0.3,1.08
+MN-000-J-16,Mango,0%,Jelly,16,4.48,0.28,0.67
+MN-000-J-20,Mango,0%,Jelly,20,5.6,0.28,0.84
+MN-000-J-24,Mango,0%,Jelly,24,6.72,0.28,1.01
+MN-000-W-16,Mango,0%,Without,16,3.84,0.24,0.58
+MN-000-W-20,Mango,0%,Without,20,4.8,0.24,0.72
+MN-000-W-24,Mango,0%,Without,24,5.76,0.24,0.86
