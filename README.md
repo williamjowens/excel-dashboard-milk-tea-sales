@@ -20,10 +20,10 @@ The project is organized as follows:
     - `orders_table_sample_screenshot.png`: Sample screenshot of the orders table.
     - `products_table_sample_screenshot.png`: Sample screenshot of the products table.
   - **raw/**: Original raw data files and data preparation script.
-    - `customers_complete.csv`: Complete list of customers.
+    - `customers_complete.csv`: Complete table of customers.
     - `merged_workbook.xlsx`: Merged workbook containing all raw data.
-    - `orders_complete.csv`: Complete list of orders.
-    - `products_complete.csv`: Complete list of products.
+    - `orders_complete.csv`: Complete table of orders.
+    - `products_complete.csv`: Complete table of products.
     - `milk_tea_data_creation_and_validation.ipynb`: Jupyter notebook for data creation and validation.
 
 - **pivot_tables/**: Contains pivot tables for different analyses and screenshots.
